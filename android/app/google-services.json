@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941342658041",
+    "project_id": "leadboard-57af1",
+    "storage_bucket": "leadboard-57af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941342658041:android:12bc75b2689ec6e6e54128",
+        "android_client_info": {
+          "package_name": "com.example.leadboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlOiZW0DkZfe93HqhgZwUVkoAlhzmQe2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
