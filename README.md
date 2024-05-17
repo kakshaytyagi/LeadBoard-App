@@ -8,6 +8,10 @@
 
 Welcome to Lead, an advanced lead management app designed to streamline lead tracking, follow-ups, and communication. Lead is built using Flutter for the frontend, offering a smooth and intuitive user experience, and Firebase for the backend, ensuring seamless data management and real-time updates. This document serves as a comprehensive guide for developers and users to understand the key functionalities and setup of the Lead Management App.
 
+<p align="center">
+  <img src="screenshots/Mockups-2.png" alt="Mockup image" width="200">
+</p>
+
 ## Features
 
 1. **Lead Tracking**: Easily track and manage leads across various categories such as commercial, industrial, rental, residential, and others.
