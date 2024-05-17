@@ -6,11 +6,13 @@ import 'package:flutter/material.dart';
 import 'package:leadboard_app/screens/home_screen.dart';
 import 'package:leadboard_app/screens/signin_screen.dart';
 
+
+//Add you own Constants to add your firebase
 class Constants {
-  static String appId = "1:941342658041:android:12bc75b2689ec6e6e54128";
-  static String apiKey = "AIzaSyDlOiZW0DkZfe93HqhgZwUVkoAlhzmQe2M";
-  static String messagingSenderId = "941342658041";
-  static String projectId = "leadboard-57af1";
+  static String appId = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+  static String apiKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+  static String messagingSenderId = "XXXXXXXXX";
+  static String projectId = "XXXXXXXXXXXXXXXXXXXXXX";
 }
 
 void main() async {
