@@ -113,7 +113,3 @@ Special thanks to the Flutter community for their valuable resources and inspira
 - [WhatsApp API Documentation](https://developers.facebook.com/docs/whatsapp)
   
 For further assistance with Flutter development, refer to the [online documentation](https://flutter.dev/docs) for tutorials, samples, and a full API reference.
-
----
-
-You can customize this README template further based on your specific project details and requirements. Let me know if you need any further assistance or modifications!
