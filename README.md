@@ -42,7 +42,33 @@ Welcome to Lead, an advanced lead management app designed to streamline lead tra
 
 ## Screenshots
 
-_Include screenshots of the app to showcase its user interface and key features._
+# Dashboard Screens || Search Screen || Explore
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/1.png" alt="Main Screen" width="30%">
+  <img src="screenshots/2.png" alt="Search Screen" width="30%">
+  <img src="screenshots/6.png" alt="Explore Screen" width="30%">
+</div>
+
+# Product Screen || Cart Screen || Checkout Screen
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/2.png" alt="Product Screen" width="30%">
+  <img src="screenshots/3.png" alt="Cart Screen" width="30%">
+  <img src="screenshots/4.png" alt="Checkout Screen" width="30%">
+</div>
+
+# Address || Payment Screen
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/8.png" alt="Address Screen" width="30%">
+  <img src="screenshots/9.png" alt="Payment Screen" width="30%">
+</div>
+
+# Shair Screen || Contact Screen || Author Screen
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/11.png" alt="Shair Screen" width="30%">
+  <img src="screenshots/10.png" alt="Contact Screen" width="30%">
+  <img src="screenshots/7.png" alt="Author Screen" width="30%">
+</div>
 
 
 ## Contributions
