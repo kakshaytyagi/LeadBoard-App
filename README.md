@@ -46,6 +46,14 @@ Welcome to Lead, an advanced lead management app designed to streamline lead tra
 
 ## Screenshots
 
+# Login Screens || SignUp Screen || Reset Password Screen
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/18.jpg" alt="Login Screen" width="30%">
+  <img src="screenshots/17.jpg" alt="SignUp Screen" width="30%">
+  <img src="screenshots/19.jpg" alt="Reset Password Screen" width="30%">
+</div>
+
 # Dashboard Screens || Contact Screen || Important Screen
 
 <div style="display: flex; justify-content: space-between;">
