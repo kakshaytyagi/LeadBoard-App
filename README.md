@@ -42,32 +42,45 @@ Welcome to Lead, an advanced lead management app designed to streamline lead tra
 
 ## Screenshots
 
-# Dashboard Screens || Search Screen || Explore
+# Dashboard Screens || Contact Screen || Important Screen
 
 <div style="display: flex; justify-content: space-between;">
   <img src="screenshots/1.jpg" alt="Main Screen" width="30%">
-  <img src="screenshots/2.jpg" alt="Search Screen" width="30%">
-  <img src="screenshots/6.jpg" alt="Explore Screen" width="30%">
+  <img src="screenshots/12.jpg" alt="Contact Screen" width="30%">
+  <img src="screenshots/13.jpg" alt="Important Screen" width="30%">
 </div>
 
-# Product Screen || Cart Screen || Checkout Screen
+# Dashboard Screens
+
 <div style="display: flex; justify-content: space-between;">
-  <img src="screenshots/2.jpg" alt="Product Screen" width="30%">
-  <img src="screenshots/3.jpg" alt="Cart Screen" width="30%">
-  <img src="screenshots/4.jpg" alt="Checkout Screen" width="30%">
+  <img src="screenshots/3.jpg" alt="Main Screen" width="30%">
+  <img src="screenshots/2.jpg" alt="Contact Screen" width="30%">
+  <img src="screenshots/4.jpg" alt="Important Screen" width="30%">
 </div>
 
-# Address || Payment Screen
+# Add Contact Screen
 <div style="display: flex; justify-content: space-between;">
-  <img src="screenshots/8.jpg" alt="Address Screen" width="30%">
-  <img src="screenshots/9.jpg" alt="Payment Screen" width="30%">
+  <img src="screenshots/7.jpg" alt="Contact Screen" width="30%">
+  <img src="screenshots/6.jpg" alt="Contact Screen" width="30%">
 </div>
 
-# Shair Screen || Contact Screen || Author Screen
+# Contact List || Chat Screen
 <div style="display: flex; justify-content: space-between;">
-  <img src="screenshots/11.jpg" alt="Shair Screen" width="30%">
-  <img src="screenshots/10.jpg" alt="Contact Screen" width="30%">
-  <img src="screenshots/7.jpg" alt="Author Screen" width="30%">
+  <img src="screenshots/5.jpg" alt="Contact List Screen" width="30%">
+  <img src="screenshots/10.jpg" alt="Chat Screen" width="30%">
+</div>
+
+# Add Important Screen || Change Status(Active/Dead) || Author Screen 
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/14.jpg" alt="Important Screen" width="30%">
+  <img src="screenshots/9.jpg" alt="Change Status" width="30%">
+  <img src="screenshots/8.jpg" alt="Author Screen" width="30%">
+</div>
+
+# Edit Name Screen || Empty Contact List Screen 
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/15.jpg" alt="Edit Screen" width="30%">
+  <img src="screenshots/16.jpg" alt="Empty Contact Screen" width="30%">
 </div>
 
 
